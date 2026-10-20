@@ -1,4 +1,4 @@
-# [Zap_v2](https://Sam3360.github.io/Zap/UserPolicyZap.html)  ⚡ [Latest version]
+# [Zap_v2](https://Sam3360.github.io/Zap/UserPolicyZap.html)  ⚡ [Latest version for Computers and Tabs]
 
 ![Zap Banner](ZapBanner.png)
 
